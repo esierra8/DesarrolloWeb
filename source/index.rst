@@ -9,11 +9,19 @@ Has dado el primer paso a para Desarrollar y Diseñar Páginas Web. El mundo nav
 
 Soy un graduado de Simpson College y tengo dos carreras una en ciencias computacionales e informatica y tengo 4 años creando páginas web. Sabemos que las computadoras y el internet son lo de hoy. Entonces dejame mostrarte lo fácil que es crear tu propia página de internet, no te vas a arrepentir.
 
-Requisitos para este curso:
----------------------------
+Requisitos:
+-----------
 * Una computadora con acceso a internet. Es todo.
 * `Brackets  <http://brackets.io/>`_  -  Un moderno editor de texto que hace que sea fácil diseñar páginas web.
-* *No* necesitas tener experiencia previa, vamos a empezar juntos desde cero y vamos a llegar a tener el conocimiento y la practica de como crear paginas web.
+* **No** necesitas tener experiencia previa, vamos a empezar juntos desde cero y vamos a llegar a tener el conocimiento y la practica de como crear paginas web.
+
+Meta:
+-----
+Vamos a comprender en su totalidad el ambito de diseñar páginas web. Existen tres terminos  *Front End*, *Back End* y *Full Stack*. Relax, no tienes que aprenderte los terminos pero me gustaria que los entiendas. Pero aun asi dejame te los explico con un ejemplo. Imagina que diseñar es como un restaruante:
+* *Front End* es lo que te sirven el plato de comida, es lo que vez es la presentación de todo un trabajo de diferentes partes.
+* *Back End* es lo que no ves, la comida, las medidas, el cocinero y la preparación.
+* *Full Stack* es el servicio completo.
+
 
 
 Tres lenguajes essenciales para el Desarrollo Web:
