@@ -19,9 +19,9 @@ Requisitos:
 Meta:
 -----
 Vamos a comprender en su totalidad el ambito de diseñar páginas web. Existen tres terminos  *Front End*, *Back End* y *Full Stack*. Relax, no tienes que aprenderte los terminos pero me gustaria que los entiendas. Y cada termino tiene sus propios lenguajes, metodos y herramientas de desarrollo.
-===========
-Restaurante
-===========
+=========
+Front End
+=========
 Lenguajes:	Herrmanietas:
 
   Vamos a comparar el Desarrollo y Diseño web con un restaurante. El restaurante tiene un almacen de comida, utensilios y cheffs, no simplemente es el plato que te presentan y comes. Lo mismo es en la web, la página web tiene base que diseñar es como un restaruante:
