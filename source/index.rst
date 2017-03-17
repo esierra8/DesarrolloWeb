@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Felicidades
+Felicidades!
 ==========
 Has dado el primer paso a para Desarrollar y Diseñar Páginas Web. El mundo navega el internet por un promedio de 1,404 horas cada año con un total de 1 billón de páginas web creadas. Es tiempo de que entendamos que tiene a este mundo tan perplejo. Me da gusto que encuentres mi curso en línea interesante y te aseguro que lo es.
 
@@ -12,13 +12,7 @@ Soy un graduado de Simpson College y tengo dos carreras una en ciencias computac
 Requisitos para este curso:
 ---------------------------
 * Una computadora con acceso a internet. Es todo.
-
-Preparación:
-------------
-Descargas:
-^^^^^^^^^^
-* Brackets: un editor de texto para poder escribir en el lenguaje de la Web.
-'Brackets Download: <http://brackets.io/>'_
+* ` Brackets:<http://brackets.io/>`_ un editor de texto para poder escribir en el lenguaje de la Web.
 
 
 Tres lenguajes essenciales para el Desarrollo Web:
