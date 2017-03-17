@@ -12,10 +12,12 @@ Soy un graduado de Simpson College y tengo dos carreras una en ciencias computac
 Requisitos para este curso:
 ---------------------------
 * Una computadora con acceso a internet. Es todo.
-* `Brackets: <http://brackets.io/>`_ un editor de texto para poder escribir en el lenguaje de la Web.
+* `Brackets  <http://brackets.io/>`_  -  Un moderno editor de texto que hace que sea fácil diseñar páginas web.
+* *No* necesitas tener experiencia previa, vamos a empezar juntos desde cero y vamos a llegar a tener el conocimiento y la practica de como crear paginas web.
 
 
 Tres lenguajes essenciales para el Desarrollo Web:
+
 * HTML 5
 * CSS 6
 * Javascript
