@@ -38,17 +38,15 @@ Habiendo dicho esto me gustaria explicarte un poco el modo de aprendizaje que es
 
 Quibole Que?!
 -------------
-=======================
-Brackets
-=======================
-.. image:: Brackets.png
-=======================
+Asegurate que una vez que hayas descargado Brackets y Google Chrome se vean algo asi:
 
-===========================
+Brackets
+^^^^^^^^
+
+.. image:: Brackets.png
 Google Chrome
-===========================
+^^^^^^^^^^^^^
 .. image:: GoogleChrome.png
-===========================
 
 
 Vamos a comparar el Desarrollo y Diseño web con un restaurante. El restaurante tiene un almacen de comida, utensilios y cheffs, no simplemente es el plato que te presentan y comes. Lo mismo es en la web, la página web tiene base que diseñar es como un restaruante:
