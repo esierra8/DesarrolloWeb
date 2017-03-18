@@ -6,7 +6,7 @@
    :maxdepth: 2
    :caption: 
 
-   
+
    Leccion1/leccion1
 
 Introducción
@@ -49,10 +49,3 @@ Brackets
 Google Chrome
 ^^^^^^^^^^^^^
 .. image:: GoogleChrome.png
-
-.. Indice
-..======
-
-..* :ref:`genindex`
-..* :ref:`modindex`
-..* :ref:`search`
