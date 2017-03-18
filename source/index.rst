@@ -5,9 +5,8 @@
 .. toctree::
    :maxdepth: 2
    :caption: 
-
-
-   Leccion1/leccion1
+   
+   leccion1
 
 Introducción
 ==========
