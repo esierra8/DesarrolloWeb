@@ -8,7 +8,7 @@
 
 Introducción
 ==========
-Felicidaeds! Has dado el primer paso a para empezar a Desarrollar y Diseñar Páginas Web. La persona promedio navega el internet por un promedio de 1,404 horas cada año y existen un total de 1 billón de páginas web creadas. Es tiempo de que entendamos que tiene a este mundo tan perplejo. Me da gusto que encuentres mi curso en línea interesante y te aseguro que lo es.
+Felicidades! Has dado el primer paso a para empezar a Desarrollar y Diseñar Páginas Web. La persona promedio navega el internet por un promedio de 1,404 horas cada año y existen un total de 1 billón de páginas web creadas. Es tiempo de que entendamos que tiene a este mundo tan perplejo. Me da gusto que encuentres mi curso en línea interesante y te aseguro que lo es.
 
 Mi nombre es Esteban Sierra y tengo dos carreras una en ciencias computacionales e informática y tengo 4 años creando páginas web. Sabemos que las computadoras y el internet son lo de hoy. Entonces dejame mostrarte lo fácil que es crear tu propia página de internet, que podrias llegar a utilizar para lo que tu quieras. Tu limite sera tu creativida asi que ponte trucha, no te vas a arrepentir.
 
@@ -46,26 +46,9 @@ Brackets
 Google Chrome
 ^^^^^^^^^^^^^
 .. image:: GoogleChrome.png
+.. Indice
+..======
 
-
-Vamos a comparar el Desarrollo y Diseño web con un restaurante. El restaurante tiene un almacen de comida, utensilios y cheffs, no simplemente es el plato que te presentan y comes. Lo mismo es en la web, la página web tiene base que diseñar es como un restaruante:
-* *Front End* es lo que te sirven el plato de comida, es lo que vez es la presentación de todo un trabajo de diferentes partes.
-* *Back End* es lo que no ves, la comida, las medidas, el cocinero y la preparación.
-* *Full Stack* es el servicio completo.
-
-
-
-
-
-
-
-
-
-
-
-Indice
-======
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+..* :ref:`genindex`
+..* :ref:`modindex`
+..* :ref:`search`
