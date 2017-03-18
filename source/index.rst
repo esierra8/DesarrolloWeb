@@ -42,7 +42,6 @@ Asegurate que una vez que hayas descargado Brackets y Google Chrome se vean algo
 
 Brackets
 ^^^^^^^^
-
 .. image:: Brackets.png
 Google Chrome
 ^^^^^^^^^^^^^
