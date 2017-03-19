@@ -1,49 +1,35 @@
-.. Desarrollo Web documentation master file, created by
-   sphinx-quickstart on Sun Mar 12 16:06:12 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive. 
-.. toctree::
-   :maxdepth: 2
-   :caption: 
-   leccion1
+Lección 1
+=========
 
-Introducción
-==========
-Felicidades! Has dado el primer paso a para empezar a Desarrollar y Diseñar Páginas Web. La persona promedio navega el internet por un promedio de 1,404 horas cada año y existen un total de 1 billón de páginas web creadas. Es tiempo de que entendamos que tiene a este mundo tan perplejo. Me da gusto que encuentres mi curso en línea interesante y te aseguro que lo es.
+HTML
+----
 
-Mi nombre es Esteban Sierra y tengo dos carreras una en ciencias computacionales e informática y tengo 4 años creando páginas web. Sabemos que las computadoras y el internet son lo de hoy. Entonces dejame mostrarte lo fácil que es crear tu propia página de internet, que podrias llegar a utilizar para lo que tu quieras. Tu limite sera tu creativida asi que ponte trucha, no te vas a arrepentir.
+HTML
+	**HyperText Markup Language** proporciona una forma lógica de estructurar contenido para páginas web.
 
-Requisitos
------------
-* Una computadora con acceso a internet.
-* Profavor descarga e instala:
-	1. `Brackets  <http://brackets.io/>`_  .  Un moderno editor de texto que hace que sea fácil diseñar páginas web.
-	2. `GoogleChrome <https://www.google.com/chrome/browser/features.html?brand=CHBD&gclid=CjwKEAjwkq7GBRDun9iu2JjyhmsSJADHCD_Hwthi0hOt-0a9Ah0tTukTtp9vLeLwcy4PI6YZ3gmgpBoCV3vw_wcB>`_ es un simple, rapido y seguro navegador web, hecho para la web moderna.
-* **No** **necesitas** tener **experiencia** previa, vamos a empezar juntos desde cero y vamos a llegar a tener el conocimiento y la práctica de como crear paginas web.
+.. Es el idioma utilizado para crear las páginas web que visita todos los días.
+Un lenguaje de marcado es un lenguaje informático que define la estructura y presentación de los textos.
+* Los elementos de HTML son los bloques de construcción de las páginas HTML
+* Los elementos de HTML son con etiquetas:
 
-Nuestra Meta
-------------
-Vamos a comprender en su totalidad el ambito de diseñar páginas web. Existen tres terminos  para clasificar el tipo de desarrollo web *Front End*, *Back End* y *Full Stack*. Relax, no tienes que aprenderte los terminos pero me gustaria que los entendieras. Y cada termino tiene sus propios lenguajes, metodos y herramientas de desarrollo. Nosotros aprenderemos *Front End*
+.. image:: html_etiqueta.png
 
-Front End
-^^^^^^^^^
-==========	==============================
-Lenguajes	Herrmanietas
-==========	==============================
-HTML 5		Editor de texto: *Brackets*
-CSS 6		Navegador Web: *Google Chrome*
-Javascript
-==========	==============================
 
-Habiendo dicho esto me gustaria explicarte un poco el modo de aprendizaje que estare ofreciendo. Este curso se basa en enseñarte terminos y maneras, ponerlos en practica y ahí mismo ver los resultados. Pero pronto entenderas porque mi curso es tan especial.
 
-Quibole Que?!
--------------
-Asegurate que una vez que hayas descargado Brackets y Google Chrome se vean algo asi:
+.. raw:: html
+* Las etiquetas de HTML etiquetan partes de contenido como "encabezado", "párrafo", "tabla", etc.
+* Los navegadores no muestran las etiquetas HTML, pero las utilizan para procesar el contenido de la página
 
-Brackets
-^^^^^^^^
-.. image:: Brackets.png
-Google Chrome
-^^^^^^^^^^^^^
-.. image:: GoogleChrome.png
+
+.. hint::
+	Deja saber a tu  navegador web que estás utilizando el lenguaje HTML.
+.. raw:: html
+
+	
+
+
+HyperText es el texto que se muestra en una computadora o dispositivo que proporciona acceso a otro texto a través de enlaces, también conocidos como "hipervínculos". De hecho, es probable que haya hecho clic en muchos, muchos hipervínculos en su camino a este curso Codecademy!
+
+En este curso, aprenderá a utilizar los fundamentos de HTML para estructurar, presentar y vincular contenido. También aprenderá a usar CSS o Cascading Style Sheets para diseñar el contenido HTML que agregue a las páginas web.
+
+¡Empecemos!
