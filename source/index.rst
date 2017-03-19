@@ -33,7 +33,16 @@ A continuación te voy a dar un ejemplo de la base de un archivo html. Es múy f
    :linenos:
    :caption: example1.html
 
-Elementos pueden ir adentro de otros elementos y como pueds ver en la linea 4, el elemento *<title>* esta dentro de el elemento *<head>*. Y debido a eso indentamos el elemento que se encuentra dentro.
+
+La declaración `<! DOCTYPE html>` define este documento como HTML5
+El elemento `<html>` es el elemento raíz de una página HTML
+El elemento `<head>` contiene información meta sobre el documento
+El elemento `<title>` especifica un título para el documento
+El elemento `<body>` contiene el contenido visible de la página
+El elemento `<h1>` define un encabezado grande
+El elemento `<p>` define un párrafo
+
+Elementos pueden ir adentro de otros elementos y como pueds ver en la linea 4, el elemento ``<title>`` esta dentro de el elemento ``<head>``. Y debido a eso indentamos el elemento que se encuentra dentro.
 
 Cuando abras por primera vez *Brackets* aparecera un archivo con texto ya escrito. Elimina todo, cópia y pega el ejemplo de *html5* que vez aquí. Lánza tu página en Google Chrome así:
 
@@ -46,17 +55,3 @@ Cuando abras por primera vez *Brackets* aparecera un archivo con texto ya escrit
 Google Chrome debería abrirse con una página que luce algo así:
 
 .. image:: GoogleChromeExample1.png
-
-
-
-HyperText es el texto que se muestra en una computadora o dispositivo que proporciona acceso a otro texto a través de enlaces, también conocidos como "hipervínculos". De hecho, es probable que haya hecho clic en muchos, muchos hipervínculos en su camino a este curso Codecademy!
-
-.. codeblock:: html
-
-	<p>This is a paragraph</p>
-	<p>This is a paragraph</p>
-	<p>This is a paragraph</p>
-
-En este curso, aprenderá a utilizar los fundamentos de HTML para estructurar, presentar y vincular contenido. También aprenderá a usar CSS o Cascading Style Sheets para diseñar el contenido HTML que agregue a las páginas web.
-
-¡Empecemos!
