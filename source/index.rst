@@ -18,6 +18,7 @@ Un lenguaje de marcado es un lenguaje informático que define la estructura y pr
 .. image:: htmlEtiqueta.png
 
 IMPORTANT!
+
 .. important:: 
 
 	Cada vez que abres una etiqueta, asegurate de **SIEMPRE** cerrarla como acontinuación. 
