@@ -34,13 +34,13 @@ A continuación te voy a dar un ejemplo de la base de un archivo html. Es múy f
    :caption: example1.html
 
 
-La declaración `<! DOCTYPE html>` define este documento como HTML5
-El elemento `<html>` es el elemento raíz de una página HTML
-El elemento `<head>` contiene información meta sobre el documento
-El elemento `<title>` especifica un título para el documento
-El elemento `<body>` contiene el contenido visible de la página
-El elemento `<h1>` define un encabezado grande
-El elemento `<p>` define un párrafo
+* La declaración ``<! DOCTYPE html>`` define este documento como HTML5
+* El elemento ``<html>`` es la raíz de una página HTML
+* El elemento ``<head>`` contiene información meta sobre el documento
+* El elemento ``<title>`` especifica un título para el documento
+* El elemento ``<body>`` contiene el contenido visible de la página
+* El elemento ``<h1>`` define un encabezado grande
+* El elemento ``<p>`` define un párrafo
 
 Elementos pueden ir adentro de otros elementos y como pueds ver en la linea 4, el elemento ``<title>`` esta dentro de el elemento ``<head>``. Y debido a eso indentamos el elemento que se encuentra dentro.
 
