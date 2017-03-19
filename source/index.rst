@@ -19,14 +19,16 @@ Un lenguaje de marcado es un lenguaje informático que define la estructura y pr
 
 IMPORTANT!
 .. important:: 
-	Cada vez que abres una etiqueta, asegurate de **SIEMPRE** cerrarla como acontinuación. *<h1> **</h1>** *
+
+	Cada vez que abres una etiqueta, asegurate de **SIEMPRE** cerrarla como acontinuación. 
+	``<h1> </h1>``
 
 Y con un conjunto de bloques construimos lo que es una pagina web. A continuación te voy a dar un ejemplo de la base de un archivo html. 
 
 .. literalinclude:: example1.html
    :language: html
    :linenos:
-   :caption: 
+   :caption: example1.html
 
 Cuando abras por primera vez *Brackets* aparecera un archivo con texto ya escrito. Elimina todo, cópia y pega el ejemplo de *html5* que vez aquí. Lánza tu página en Google Chrome así:
 
