@@ -17,9 +17,10 @@ Un lenguaje de marcado es un lenguaje informático que define la estructura y pr
 
 ..image:: htmlEtiqueta.png
 
+IMPORTANT!
 .. important:: 
 	Cada vez que abres una etiqueta, asegurate de **SIEMPRE** cerrarla como acontinuación. *<h1> **</h1>** *
-	  
+
 Y con un conjunto de bloques construimos lo que es una pagina web. A continuación te voy a dar un ejemplo de la base de un archivo html. 
 
 .. literalinclude:: example1.html
