@@ -17,17 +17,10 @@ Un lenguaje de marcado es un lenguaje informático que define la estructura y pr
 
 Code BLock
 
-.. raw:: html
-	<!DOCTYPE html>
-	<html>
-		<head>
-			<title>Tu de tu pagina titulo</title>
-		</head>
-		<body>
-			<h1> Tu encabezado </h1>
-			<p>Tu parrafo</p>
-		</body>
-	</html>
+.. literalinclude:: ../../_static/html/leccion1/example.html
+   :language: html
+   :linenos:
+   :caption: ejemplo 1
 
 
 
