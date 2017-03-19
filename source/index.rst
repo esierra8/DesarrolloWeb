@@ -17,11 +17,6 @@ Un lenguaje de marcado es un lenguaje informático que define la estructura y pr
 
 .. image:: htmlEtiqueta.png
 
-.. important:: 
-
-	Cada vez que abres una etiqueta, asegurate de **SIEMPRE** cerrarla como acontinuación. 
-	``<h1> </h1>``
-
 Y con un conjunto de bloques o elementos construimos lo que es una pagina web. Son un conjunto de elementos como que guiaran a tu navegador a representar el texto de cierta forma. A continuación te voy a dar un ejemplo de la base de un archivo html. Es múy fácil acordarte de esto porque es similar a tu propio cuerpo. Con cábeza y un cuerpo. La indentación que veras a continuacion es para que tu codigo sea mas leible y este mas estructurado. Creeme te **ahorraras** mucho tiempo si simplemente empiezas a programar con una buena indentacion.
 
 .. literalinclude:: example1.html
@@ -29,9 +24,9 @@ Y con un conjunto de bloques o elementos construimos lo que es una pagina web. S
    :linenos:
    :caption: example1.html
 
-.. hint::
+.. important::
 
-	Deja saber a tu  navegador web que estás utilizando el lenguaje HTML     *<!Doctype html>*. Esta etiqueta no tienes que cerrarla.
+	**Regla #1** Cada vez que abres una etiqueta, asegurate de **SIEMPRE** cerrarla como acontinuación ``<h1> </h1>``. Para dejar saber a tu  navegador web que estás utilizando el lenguaje HTML con el elemento ``<!Doctype html>``. Esta etiqueta no tienes que cerrarla.
 
 * La declaración ``<! DOCTYPE html>`` define este documento como HTML5
 * El elemento ``<html>`` es la raíz de una página HTML
