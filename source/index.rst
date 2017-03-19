@@ -17,6 +17,23 @@ Un lenguaje de marcado es un lenguaje informático que define la estructura y pr
 
 .. image:: htmlEtiqueta.png
 
+.. code-block:: html
+	<!DOCTYPE html>
+	<html>
+		<head>
+			<title>Tu de tu pagina titulo</title>
+		</head>
+
+		<body>
+			<h1> Tu encabezado </h1>
+
+			<p>Tu parrafo</p>
+		</body>
+
+	</html>
+
+
+
 .. hint::
 
 	Deja saber a tu  navegador web que estás utilizando el lenguaje HTML.
