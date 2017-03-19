@@ -29,6 +29,9 @@ Y con un conjunto de bloques o elementos construimos lo que es una pagina web. S
    :linenos:
    :caption: example1.html
 
+.. hint::
+
+	Deja saber a tu  navegador web que estás utilizando el lenguaje HTML     *<!Doctype html>*. Esta etiqueta no tienes que cerrarla.
 
 * La declaración ``<! DOCTYPE html>`` define este documento como HTML5
 * El elemento ``<html>`` es la raíz de una página HTML
@@ -43,10 +46,6 @@ Elementos pueden ir adentro de otros elementos y como pueds ver en la linea 4, e
 Cuando abras por primera vez *Brackets* aparecera un archivo con texto ya escrito. Elimina todo, cópia y pega el ejemplo de *html5* que vez aquí. Lánza tu página en Google Chrome así:
 
 .. image:: BracketsExample1.png
-
-.. hint::
-
-	Deja saber a tu  navegador web que estás utilizando el lenguaje HTML     *<!Doctype html>*. Esta etiqueta no tienes que cerrarla.
 
 Google Chrome debería abrirse con una página que luce algo así:
 
