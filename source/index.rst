@@ -17,6 +17,7 @@ Un lenguaje de marcado es un lenguaje informático que define la estructura y pr
 
 .. image:: htmlEtiqueta.png
 
+Code BLock
 .. code-block:: html
 	<!DOCTYPE html>
 	<html>
