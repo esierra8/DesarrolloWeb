@@ -12,7 +12,7 @@ Un lenguaje de marcado es un lenguaje informático que define la estructura y pr
 * Los elementos de HTML son los bloques de construcción de las páginas HTML
 * Los elementos de HTML son con etiquetas:
 
-.. image:: html_etiqueta.png
+.. image:: htmlEtiqueta.png
 
 .. raw:: html
 * Las etiquetas de HTML etiquetan partes de contenido como "encabezado", "párrafo", "tabla", etc.
