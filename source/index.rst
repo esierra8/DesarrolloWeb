@@ -45,8 +45,8 @@ HyperText es el texto que se muestra en una computadora o dispositivo que propor
 
 .. raw:: html
 	
-	<p></p>
-	
+	<p>This is a paragraph</p>
+
 En este curso, aprenderá a utilizar los fundamentos de HTML para estructurar, presentar y vincular contenido. También aprenderá a usar CSS o Cascading Style Sheets para diseñar el contenido HTML que agregue a las páginas web.
 
 ¡Empecemos!
