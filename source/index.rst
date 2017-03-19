@@ -26,7 +26,7 @@ Y con un conjunto de bloques o elementos construimos lo que es una pagina web. S
 
 .. important::
 
-	**Regla #1** Cada vez que abres una etiqueta, asegurate de **SIEMPRE** cerrarla como acontinuación ``<h1> </h1>``. Para dejar saber a tu  navegador web que estás utilizando el lenguaje HTML con el elemento ``<!Doctype html>``. Esta etiqueta no tienes que cerrarla.
+	**Regla #1** Cada vez que abres una etiqueta, asegurate de **SIEMPRE** cerrarla como acontinuación ``<h1> </h1>``. Existen casos en que no tienes que cerrar la etiqueta pero eso te lo explico mas adelante. Para dejar saber a tu  navegador web que estás utilizando el lenguaje HTML con el elemento ``<!Doctype html>``. Esta etiqueta no tienes que cerrarla.
 
 * La declaración ``<! DOCTYPE html>`` define este documento como HTML5
 * El elemento ``<html>`` es la raíz de una página HTML
@@ -38,7 +38,22 @@ Y con un conjunto de bloques o elementos construimos lo que es una pagina web. S
 
 Elementos pueden ir adentro de otros elementos y como pueds ver en la linea 4, el elemento ``<title>`` esta dentro de el elemento ``<head>``. Y debido a eso indentamos el elemento que se encuentra dentro.
 
-Cuando abras por primera vez *Brackets* aparecera un archivo con texto ya escrito. Elimina todo, cópia y pega el ejemplo de *html5* que vez aquí. Lánza tu página en Google Chrome así:
+.. codeblock:: [html]
+	caption: htmlexample.html
+	name: htmlexample1
+
+	<!DOCTYPE html>
+	<html>
+		<head>
+			<title>Tu de tu pagina titulo</title>
+		</head>
+		<body>
+			<h1> Tu encabezado </h1>
+			<p>Tu parrafo</p>
+		</body>
+	</html>
+
+Cuando abras por primera vez *Brackets* aparecera un archivo con texto ya escrito llamado *index.html*. Elimina todo, cópia y pega el ejemplo de *html5* que vez aquí. Lánza tu página en Google Chrome así:
 
 .. image:: BracketsExample1.png
 
