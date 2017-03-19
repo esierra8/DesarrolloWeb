@@ -22,10 +22,8 @@ Un lenguaje de marcado es un lenguaje informático que define la estructura y pr
 	Cada vez que abres una etiqueta, asegurate de **SIEMPRE** cerrarla como acontinuación. 
 	``<h1> </h1>``
 
-Y con un conjunto de bloques o elementos construimos lo que es una pagina web. La base de cada una de tus páginas html tiene que ser un conjunto de elementos como:
-* <html></html>
-* <head></head>
-* <body></body>
+Y con un conjunto de bloques o elementos construimos lo que es una pagina web. Abajo esta la base de cada una de tus páginas html. Son un conjunto de elementos como que guiaran a tu navegador a representar el texto de cierta forma.
+
 A continuación te voy a dar un ejemplo de la base de un archivo html. Es múy fácil acordarte de esto porque es similar a tu propio cuerpo. Con cábeza y un cuerpo. La indentación que veras a continuacion es para que tu codigo sea mas leible y este mas estructurado. Creeme te **ahorraras** mucho tiempo si simplemente empiezas a programar con una buena indentacion.
 
 .. literalinclude:: example1.html
