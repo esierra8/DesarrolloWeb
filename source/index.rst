@@ -15,14 +15,22 @@ Un lenguaje de marcado es un lenguaje informático que define la estructura y pr
 * Las etiquetas de HTML etiquetan partes de contenido como "encabezado", "párrafo", "tabla", etc.
 * Los navegadores no muestran las etiquetas HTML, pero las utilizan para procesar el contenido de la página
 
-Code BLock
+..image:: htmlEtiqueta.png
+
+Y con un conjunto de bloques construimos lo que es una pagina web.
 
 ..literalinclude:: example1.html
    :language: html
    :linenos:
-   :caption: example1.html
+   :caption: 
 
+Cuando abras por primera vez *Brackets* aparecera un archivo con texto ya escrito. Elimina todo, cópia y pega el ejemplo de *html5* que vez aquí. Lánza tu página en Google Chrome así:
 
+.. image:: BracketsExample1.png
+
+Google Chrome debería abrirse con una página que luce algo así:
+
+.. image:: GoogleChromeExample1.png
 
 .. hint::
 
