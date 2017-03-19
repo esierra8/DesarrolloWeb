@@ -37,12 +37,16 @@ Google Chrome debería abrirse con una página que luce algo así:
 
 .. image:: GoogleChromeExample1.png
 
-..hint::
+.. hint::
 
 	Deja saber a tu  navegador web que estás utilizando el lenguaje HTML     *<!Doctype html>. Esta etiqueta no tienes que cerrarla.
 
 HyperText es el texto que se muestra en una computadora o dispositivo que proporciona acceso a otro texto a través de enlaces, también conocidos como "hipervínculos". De hecho, es probable que haya hecho clic en muchos, muchos hipervínculos en su camino a este curso Codecademy!
 
+.. raw:: html
+	
+	<p></p>
+	
 En este curso, aprenderá a utilizar los fundamentos de HTML para estructurar, presentar y vincular contenido. También aprenderá a usar CSS o Cascading Style Sheets para diseñar el contenido HTML que agregue a las páginas web.
 
 ¡Empecemos!
