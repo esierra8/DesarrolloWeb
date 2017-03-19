@@ -17,7 +17,7 @@ Un lenguaje de marcado es un lenguaje informático que define la estructura y pr
 
 Code BLock
 
-	.. literalinclude:: ../../_static/html/leccion1/example.html
+	.. literalinclude:: ../../_static/html/leccion1/example1.html
 	   :language: html
 	   :linenos:
 	   :caption: ejemplo 1
