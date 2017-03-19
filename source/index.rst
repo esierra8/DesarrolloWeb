@@ -60,3 +60,6 @@ Cuando abras por primera vez *Brackets* aparecera un archivo con texto ya escrit
 Google Chrome debería abrirse con una página que luce algo así:
 
 .. image:: GoogleChromeExample1.png
+
+.. attention:: 
+	Felicidades! Has creado tu primer página web. Te aseguro que este sera un curso que te emocionara terminar. Acuerdate nadamas que la creatividad sera tu unico limite. 
