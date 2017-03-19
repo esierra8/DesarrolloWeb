@@ -15,8 +15,10 @@ Un lenguaje de marcado es un lenguaje informático que define la estructura y pr
 * Las etiquetas de HTML etiquetan partes de contenido como "encabezado", "párrafo", "tabla", etc.
 * Los navegadores no muestran las etiquetas HTML, pero las utilizan para procesar el contenido de la página
 
+.. image:: htmlEtiquetas.png
 
 .. hint::
+
 	Deja saber a tu  navegador web que estás utilizando el lenguaje HTML.
 
 HyperText es el texto que se muestra en una computadora o dispositivo que proporciona acceso a otro texto a través de enlaces, también conocidos como "hipervínculos". De hecho, es probable que haya hecho clic en muchos, muchos hipervínculos en su camino a este curso Codecademy!
