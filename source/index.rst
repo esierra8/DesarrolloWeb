@@ -21,6 +21,6 @@ Nuestro primer ejemplo de atributos es uno muy importante, especialmente para la
 .. tip:: 
 	Como pueden ver, la linea subrayada tiene un cambio a nuestro ejemplo de la lección pasada. 
 	``<html lang="es">``
-	*lang=es* es un atributo y define el lenguaje para el elemento html.
+	es un atributo y define el lenguaje para el elemento html.
 
 
