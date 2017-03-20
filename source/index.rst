@@ -1,58 +1,51 @@
-Lección 2
-=========
+.. Desarrollo Web documentation master file, created by
+   sphinx-quickstart on Sun Mar 12 16:06:12 2017.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive. 
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: 
 
-Atributos HTML
---------------
-Atributos HTML
-	Se utilizan para definir las características de un *elemento* HTML y se coloca dentro de la etiqueta principal del elemento. Los atributos proporcionan información adicional sobre un elemento.
+   leccion1
 
-* Todos los *elementos* HTML pueden tener atributos.
-* Los *atributos* siempre se especifican en la etiqueta principal.
-* Los *atributos* usualmente vienen en un formato de nombre/valor com por ejemplo: ``nombre = "valor"``
+Introducción
+==========
+Felicidades! Has dado el primer paso a para empezar a Desarrollar y Diseñar Páginas Web. La persona promedio navega el internet por un promedio de 1,404 horas cada año y existen un total de 1 billón de páginas web creadas. Es tiempo de que entendamos que tiene a este mundo tan perplejo. Me da gusto que encuentres mi curso en línea interesante y te aseguro que lo es.
 
-Nuestro primer ejemplo de atributos es uno muy importante, especialmente para las personas que no usaran el idioma de ingles en su página. 
+Mi nombre es Esteban Sierra y tengo dos carreras una en ciencias computacionales e informática y tengo 4 años creando páginas web. Sabemos que las computadoras y el internet son lo de hoy. Entonces dejame mostrarte lo fácil que es crear tu propia página de internet, que podrias llegar a utilizar para lo que tu quieras. Tu limite sera tu creativida asi que ponte trucha, no te vas a arrepentir.
 
-.. literalinclude:: example2.html
-   :language: html
-   :emphasize-lines: 2
-   :linenos:
-   :caption: example2.html
+Requisitos
+-----------
+* Una computadora con acceso a internet.
+* Profavor descarga e instala:
+	1. `Brackets  <http://brackets.io/>`_  .  Un moderno editor de texto que hace que sea fácil diseñar páginas web.
+	2. `GoogleChrome <https://www.google.com/chrome/browser/features.html?brand=CHBD&gclid=CjwKEAjwkq7GBRDun9iu2JjyhmsSJADHCD_Hwthi0hOt-0a9Ah0tTukTtp9vLeLwcy4PI6YZ3gmgpBoCV3vw_wcB>`_ es un simple, rapido y seguro navegador web, hecho para la web moderna.
+* **No** **necesitas** tener **experiencia** previa, vamos a empezar juntos desde cero y vamos a llegar a tener el conocimiento y la práctica de como crear paginas web.
 
-.. tip:: 
-	Como pueden ver, la linea subrayada tiene un cambio a nuestro ejemplo de la lección pasada. 
-	``<html lang="es">``
-	es un atributo y define el lenguaje para el elemento html.
+Nuestra Meta
+------------
+Vamos a comprender en su totalidad el ambito de diseñar páginas web. Existen tres terminos  para clasificar el tipo de desarrollo web *Front End*, *Back End* y *Full Stack*. Relax, no tienes que aprenderte los terminos pero me gustaria que los entendieras. Y cada termino tiene sus propios lenguajes, metodos y herramientas de desarrollo. Nosotros aprenderemos *Front End*
 
-Existen muchos atributos que puedes para diferentes elementos.
+Front End
+^^^^^^^^^
+==========	==============================
+Lenguajes	Herrmanietas
+==========	==============================
+HTML 5		Editor de texto: *Brackets*
+CSS 6		Navegador Web: *Google Chrome*
+Javascript
+==========	==============================
 
-* Todos los elementos tienen atributos.
-* Elementos tienen sus propios atributos para ser utilizados.
-* **No todos** los atributos pueden ser utilizados con todos los elementos.
-* HTML no distingue entre mayusculas y minusculas. Pero **USA** minusculas, es buena practica.
-* Puedes usar comillas simples o dobles. Las comillas dobles son mas usadas.
+Habiendo dicho esto me gustaria explicarte un poco el modo de aprendizaje que estare ofreciendo. Este curso se basa en enseñarte terminos y maneras, ponerlos en practica y ahí mismo ver los resultados. Pero pronto entenderas porque mi curso es tan especial.
 
-Esto es el mismo ejemplo que hemos usado hasta ahorita pero lo llenare de atributos para que te des una mejor idea.
+Quibole Que?!
+-------------
+Asegurate que una vez que hayas descargado Brackets y Google Chrome se vean algo asi:
 
-.. literalinclude:: example3.html
-	:language: html
-	:linenos:
-	:caption: ejemplo3.html
-
-
-``<h1 id="primerTitulo" title="Soy un encabezado"> Tu encabezado </h1>``
-Nuestra primera etiqueta``<h1>`` tiene el atributo *id* que proporciona con una identificación y *title* proporciona un titulo que cuando pasas tu mouse por el encabezado te sale una linea amarillenta con tu titulo asi:
-
-.. image:: titleExample.png
-
-``<p id="primerParrafo" >Tu parrafo</p>``
-De nuevo vemos el atributo id que identifica, en esta ocación a el parrafo.
-
-``<a href="http://desarrolloweb.readthedocs.io/en/latest/">Da click aqui para navegar a readthedocs.org </a>``
-Aqui vemos un nuevo elemento ``<a></a>`` este elemento es usado para los hipervinculos o *links*, el hipervinculo que quieres navegar se declara en el atributo *href*.
-
-``<img alt="" src="w3schools.jpg" width="104" height="142">``
-Otro nuevo elemento es el de ``<img>`` como puedes ver este elemento **no necesita** etiqueta final (``</img>). Y aquí podemos ver mas atributos como *src* que se utiliza para encontrar la imagen que quieres mostrar. Puedes declarar lo alto de tu imagen con *height="142"* y lo ancho *width="104"* que en este caso el tamano de tu imagen seria 142 pixeles de alto x 104 pixeles de largo.
-
-
-
-
+Brackets
+^^^^^^^^
+.. image:: Brackets.png
+Google Chrome
+^^^^^^^^^^^^^
+.. image:: GoogleChrome.png
