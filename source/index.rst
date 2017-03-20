@@ -31,5 +31,28 @@ Existen muchos atributos que puedes para diferentes elementos.
 * HTML no distingue entre mayusculas y minusculas. Pero **USA** minusculas, es buena practica.
 * Puedes usar comillas simples o dobles. Las comillas dobles son mas usadas.
 
+Esto es el mismo ejemplo que hemos usado hasta ahorita pero lo llenare de atributos para que te des una mejor idea.
+
+.. literalinclude:: example3.html
+	:language: html
+	:linenos:
+	:caption: ejemplo3.html
+
+
+``<h1 id="primerTitulo" title="Soy un encabezado"> Tu encabezado </h1>``
+Nuestra primera etiqueta``<h1>`` tiene el atributo *id* que proporciona con una identificación y *title* proporciona un titulo que cuando pasas tu mouse por el encabezado te sale una linea amarillenta con tu titulo asi:
+
+.. image:: titleExample.png
+
+``<p id="primerParrafo" >Tu parrafo</p>``
+De nuevo vemos el atributo id que identifica, en esta ocación a el parrafo.
+
+``<a href="http://desarrolloweb.readthedocs.io/en/latest/">Da click aqui para navegar a readthedocs.org </a>``
+Aqui vemos un nuevo elemento ``<a></a>`` este elemento es usado para los hipervinculos o *links*, el hipervinculo que quieres navegar se declara en el atributo *href*.
+
+``<img alt="" src="w3schools.jpg" width="104" height="142">``
+Otro nuevo elemento es el de ``<img>`` como puedes ver este elemento **no necesita** etiqueta final (``</img>). Y aquí podemos ver mas atributos como *src* que se utiliza para encontrar la imagen que quieres mostrar. Puedes declarar lo alto de tu imagen con *height="142"* y lo ancho *width="104"* que en este caso el tamano de tu imagen seria 142 pixeles de alto x 104 pixeles de largo.
+
+
 
 
