@@ -14,7 +14,8 @@ Nuestro primer ejemplo de atributos es uno muy importante, especialmente para la
 
 .. literalinclude:: example2.html
    :language: html
+   :emphasize-lines: 2
    :linenos:
    :caption: example2.html
-   :emphasize-lines: 2
+
 
