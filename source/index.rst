@@ -16,5 +16,5 @@ Nuestro primer ejemplo de atributos es uno muy importante, especialmente para la
    :language: html
    :linenos:
    :caption: example2.html
-
+   :emphasize-lines: 2
 
