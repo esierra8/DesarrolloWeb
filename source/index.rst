@@ -22,8 +22,9 @@ Nuestro primer ejemplo de atributos es uno muy importante, especialmente para la
 	Como pueden ver, la linea subrayada tiene un cambio a nuestro ejemplo de la lección pasada. 
 	``<html lang="es">``
 	es un atributo y define el lenguaje para el elemento html.
-	
+
 Existen muchos atributos que puedes para diferentes elementos.
+
 * Todos los elementos tienen atributos.
 * Elementos tienen sus propios atributos para ser utilizados.
 * **No todos** los atributos pueden ser utilizados con todos los elementos.
