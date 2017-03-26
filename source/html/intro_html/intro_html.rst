@@ -1,25 +1,23 @@
-Lección 1
-=========
-
-HTML
-----
+Intro HTML
+==========
 
 HTML
 	**HyperText Markup Language** proporciona una forma lógica de estructurar contenido para páginas web.
 
 .. Es el idioma utilizado para crear las páginas web que visita todos los días.
+
 Un lenguaje de marcado es un lenguaje informático que define la estructura y presentación de los textos.
 
 * Los elementos de HTML son los bloques de construcción de las páginas HTML.
-* Los elementos de HTML son con etiquetas.
+* Los elementos de HTML se crean con etiquetas.
 * Las etiquetas de HTML etiquetan partes de contenido como "encabezado", "párrafo", "tabla", etc.
 * Los navegadores no muestran las etiquetas HTML, pero las utilizan para procesar el contenido de la página
 
-.. image:: htmlEtiqueta.png
+.. image:: ..\img\htmlEtiqueta.png
 
 Y con un conjunto de bloques o elementos construimos lo que es una pagina web. Son un conjunto de elementos como que guiaran a tu navegador a representar el texto de cierta forma. A continuación te voy a dar un ejemplo de la base de un archivo html. Es múy fácil acordarte de esto porque es similar a tu propio cuerpo. Con cábeza y un cuerpo. La indentación que veras a continuacion es para que tu codigo sea mas leible y este mas estructurado. Creeme te **ahorraras** mucho tiempo si simplemente empiezas a programar con una buena indentacion.
 
-.. literalinclude:: example1.html
+.. literalinclude:: ..\code\example1.html
    :language: html
    :linenos:
    :caption: example1.html
@@ -38,28 +36,13 @@ Y con un conjunto de bloques o elementos construimos lo que es una pagina web. S
 
 Elementos pueden ir adentro de otros elementos y como pueds ver en la linea 4, el elemento ``<title>`` esta dentro de el elemento ``<head>``. Y debido a eso indentamos el elemento que se encuentra dentro.
 
-.. codeblock:: [html]
-	caption: htmlexample.html
-	name: htmlexample1
-
-	<!DOCTYPE html>
-	<html>
-		<head>
-			<title>Tu de tu pagina titulo</title>
-		</head>
-		<body>
-			<h1> Tu encabezado </h1>
-			<p>Tu parrafo</p>
-		</body>
-	</html>
-
 Cuando abras por primera vez *Brackets* aparecera un archivo con texto ya escrito llamado *index.html*. Elimina todo, cópia y pega el ejemplo de *html5* que vez aquí. Lánza tu página en Google Chrome así:
 
-.. image:: BracketsExample1.png
+.. image:: ..\img\BracketsExample1.png
 
 Google Chrome debería abrirse con una página que luce algo así:
 
-.. image:: GoogleChromeExample1.png
+.. image:: ..\img\GoogleChromeExample1.png
 
 .. attention:: 
 	Felicidades! Has creado tu primer página web. Te aseguro que este sera un curso que te emocionara terminar. Acuerdate nadamas que la creatividad sera tu unico limite. 
