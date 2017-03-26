@@ -13,11 +13,11 @@ Un lenguaje de marcado es un lenguaje informático que define la estructura y pr
 * Las etiquetas de HTML etiquetan partes de contenido como "encabezado", "párrafo", "tabla", etc.
 * Los navegadores no muestran las etiquetas HTML, pero las utilizan para procesar el contenido de la página
 
-.. image:: ..\img\htmlEtiqueta.png
+.. image:: ../img/htmlEtiqueta.png
 
 Y con un conjunto de bloques o elementos construimos lo que es una pagina web. Son un conjunto de elementos como que guiaran a tu navegador a representar el texto de cierta forma. A continuación te voy a dar un ejemplo de la base de un archivo html. Es múy fácil acordarte de esto porque es similar a tu propio cuerpo. Con cábeza y un cuerpo. La indentación que veras a continuacion es para que tu codigo sea mas leible y este mas estructurado. Creeme te **ahorraras** mucho tiempo si simplemente empiezas a programar con una buena indentacion.
 
-.. literalinclude:: ..\code\example1.html
+.. literalinclude:: ../code/example1.html
    :language: html
    :linenos:
    :caption: example1.html
@@ -38,11 +38,11 @@ Elementos pueden ir adentro de otros elementos y como pueds ver en la linea 4, e
 
 Cuando abras por primera vez *Brackets* aparecera un archivo con texto ya escrito llamado *index.html*. Elimina todo, cópia y pega el ejemplo de *html5* que vez aquí. Lánza tu página en Google Chrome así:
 
-.. image:: ..\img\BracketsExample1.png
+.. image:: ../img/BracketsExample1.png
 
 Google Chrome debería abrirse con una página que luce algo así:
 
-.. image:: ..\img\GoogleChromeExample1.png
+.. image:: ../img/GoogleChromeExample1.png
 
 .. attention:: 
 	Felicidades! Has creado tu primer página web. Te aseguro que este sera un curso que te emocionara terminar. Acuerdate nadamas que la creatividad sera tu unico limite. 
