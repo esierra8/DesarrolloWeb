@@ -76,19 +76,10 @@
 	"buffers":
 	[
 		{
-			"file": "source/html/atributos/atributos.rst",
-			"settings":
-			{
-				"buffer_size": 2992,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "source/html/comentarios/comentarios.rst",
 			"settings":
 			{
-				"buffer_size": 1140,
+				"buffer_size": 1155,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -142,17 +133,18 @@
 		"/C/Users/esierra/Documents/Project/Desarrollo_Web",
 		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source",
 		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html",
-		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/code",
-		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/intro_html"
+		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/intro_html",
+		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/javascript"
 	],
 	"file_history":
 	[
-		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/index.rst",
-		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/comentarios/comentarios.rst",
 		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/atributos/atributos.rst",
 		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/intro_html/intro_html.rst",
-		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/css/css.rst",
+		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/index.rst",
 		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/html.rst",
+		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/javascript/javascript.rst",
+		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/comentarios/comentarios.rst",
+		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/css/css.rst",
 		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/HTML/Introduccion/intro_html.rst",
 		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/HTML/_html.rst",
 		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/HTML/comentarios.rst",
@@ -239,52 +231,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "source/html/atributos/atributos.rst",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2992,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2988,
-								2988
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/RestructuredText/reStructuredText.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1532.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "source/html/comentarios/comentarios.rst",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1140,
+						"buffer_size": 1155,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1138,
-								1138
+								1052,
+								1052
 							]
 						],
 						"settings":
@@ -292,14 +256,14 @@
 							"syntax": "Packages/RestructuredText/reStructuredText.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 454.0,
+						"translation.y": 574.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "source/html/code/test.html",
 					"semi_transient": false,
 					"settings":
