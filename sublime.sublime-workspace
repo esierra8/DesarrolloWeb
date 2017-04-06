@@ -76,21 +76,13 @@
 	"buffers":
 	[
 		{
-			"file": "source/html/comentarios/comentarios.rst",
+			"file": "/C/Users/esierra/Documents/main.js",
 			"settings":
 			{
-				"buffer_size": 1155,
+				"buffer_size": 67,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "source/html/code/test.html",
-			"settings":
-			{
-				"buffer_size": 190,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Windows",
+				"name": "/*Hello, world! program in node.js*/"
 			}
 		}
 	],
@@ -130,21 +122,30 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/esierra/Documents/Project/Desarrollo_Web",
 		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source",
-		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html",
-		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/intro_html",
-		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/javascript"
+		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html"
 	],
 	"file_history":
 	[
-		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/atributos/atributos.rst",
-		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/intro_html/intro_html.rst",
-		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/index.rst",
+		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/imagenes.rst",
 		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/html.rst",
-		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/javascript/javascript.rst",
-		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/comentarios/comentarios.rst",
+		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/encabezados.rst",
+		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/resto_de_etiquetas.rst",
+		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/lista.rst",
+		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/formas.rst",
+		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/caracteres_especiales/tablas.rst",
+		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/caracteres_especiales/vinculos.rst",
+		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/etiquetas_para_texto.rst",
+		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/caracteres_especiales/caracteres_especiales.rst",
+		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/comentarios.rst",
+		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/atributos/atributos.rst",
+		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/comentarios.rst",
+		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/index.rst",
 		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/css/css.rst",
+		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/javascript/javascript.rst",
+		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/code/test.html",
+		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/intro_html/intro_html.rst",
+		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/html/comentarios/comentarios.rst",
 		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/HTML/Introduccion/intro_html.rst",
 		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/HTML/_html.rst",
 		"/C/Users/esierra/Documents/Project/Desarrollo_Web/source/HTML/comentarios.rst",
@@ -236,58 +237,31 @@
 			[
 				{
 					"buffer": 0,
-					"file": "source/html/comentarios/comentarios.rst",
+					"file": "/C/Users/esierra/Documents/main.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1155,
+						"buffer_size": 67,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1052,
-								1052
+								8,
+								8
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/RestructuredText/reStructuredText.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 574.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "source/html/code/test.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 190,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								93,
-								93
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"auto_name": "/*Hello, world! program in node.js*/",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]

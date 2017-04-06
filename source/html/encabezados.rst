@@ -1,6 +1,8 @@
 Encabezados
 ===========
-Simple, existen diferentes tamaños de encabezados. Y se usarian para diferentes tipos de ocasiones. Definen desde los encabezados mas importantes ``<h1></h1>`` hasta los encabezados menos importantes ``<h6></h6>``
+Simple, existen diferentes tamaños de encabezados. Y se usarian para diferentes 
+tipos de ocasiones. Definen desde los encabezados mas importantes ``<h1></h1>`` 
+hasta los encabezados menos importantes ``<h6></h6>``
 
 .. code-block:: html
 	:linenos:
@@ -25,11 +27,15 @@ Simple, existen diferentes tamaños de encabezados. Y se usarian para diferentes
 
 
 .. important:: 
-	Los encabezados son importantes. Los motores de búsqueda utilizan los encabezados para indexar la estructura y el contenido de tu páginas web.
+	Los encabezados son importantes. Los motores de búsqueda utilizan los 
+	encabezados para indexar la estructura y el contenido de tu páginas web.
 
-Los usuarios navegan por tu página por sus encabezados. Es importante utilizar encabezados para mostrar la estructura de tu documento.
+Los usuarios navegan por tu página por sus encabezados. Es importante utilizar 
+encabezados para mostrar la estructura de tu documento.
 
-Los encabezados ``<h1>`` deben usarse para los encabezados principales, seguidos por encabezados ``<h2>``, luego los ``<h3>`` menos importantes, etc.
+Los encabezados ``<h1>`` deben usarse para los encabezados principales, seguidos 
+por encabezados ``<h2>``, luego los ``<h3>`` menos importantes, etc.
 
 .. note:: 
-	Utiliza los encabezados sólo para encabezados. No utilice encabezados para hacer texto GRANDE o en **negrita**.
+	Utiliza los encabezados sólo para encabezados. No utilice encabezados para 
+	hacer texto GRANDE o en **negrita**.

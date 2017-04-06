@@ -1,9 +1,13 @@
 Imágenes
 ========
-En HTML, las imágenes se definen con la etiqueta ``<img>`` que está vacía, contiene sólo atributos y no tiene una etiqueta de cierre. El atributo *src* especifica la URL (dirección web) de la imagen:
-``<img src="url" alt="some_text" style="width:ancho; height:largo;">``. Y las clases de ingles se las dejo gratis!
+En HTML, las imágenes se definen con la etiqueta ``<img>`` que está vacía, 
+contiene sólo atributos y no tiene una etiqueta de cierre. El atributo *src* 
+especifica la URL (dirección web) de la imagen:
+``<img src="url" alt="some_text" style="width:ancho; height:largo;">``. Y las 
+clases de ingles se las dejo gratis!
 
-En el siguiente ejemplo declaro un elemento de tipo *img* ``<img>`` en nuestro documento *HTML*
+En el siguiente ejemplo declaro un elemento de tipo *img* ``<img>`` en nuestro 
+documento *HTML*
 
 .. code-block:: html
 	:linenos:
@@ -34,10 +38,19 @@ Directorios
 		<img src="img/el_universo.png">
 	</body>
 .. danger::
-	Y que significa el url o ``img/el_universo``
+	Y que significa el url o ``img/el_universo.png``
 
-Como pueden ver en el ejemplo, la imagen es demasiado grande. Vamos a hacerla más chica.Intentalo, declara un atributo en el elemento ``<img>`` de tipo width y dale 200 de valor.
-Lanzamos la página. Y obtenemos este resultado:
+Esto se llaman directorios, es como un nombre elegante para folders. Mi foto 
+el_universo.png se encuentra en el folder img. Mira
+
+* Da click derecho en tu archivo de Brackets asi y dale click a Show in Explorer 
+  que traduce Ver en explorador.
+
+
+
+Como pueden ver en el ejemplo, la imagen es demasiado grande. Vamos a hacerla 
+más chica.Intentalo, declara un atributo en el elemento ``<img>`` de tipo width 
+y dale 200 de valor. Lanzamos la página. Y obtenemos este resultado:
 
 .. image:: img/imagenEx3.png
 	:height: 200px

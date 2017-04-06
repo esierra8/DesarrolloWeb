@@ -1,6 +1,8 @@
 Etiquetas para texto
 ====================
-Como puedes imaginarte el texto se puede editar de diferentes maneras tenemos **bold** y *italics* por ejemplo y estoy casi seguro que has usado ese tipo de texto en Word. Esto es simple:
+Como puedes imaginarte el texto se puede editar de diferentes maneras tenemos 
+**bold** y *italics* por ejemplo y estoy casi seguro que has usado ese tipo de 
+texto en Word. Esto es simple:
 
 .. code-block:: html
 	:linenos:
@@ -11,15 +13,19 @@ Como puedes imaginarte el texto se puede editar de diferentes maneras tenemos **
 			<title>Titulo</title>
 		</head>
 		<body>
-			<!-- La etiqueta <strong></strong> va a volver el texto que esta entre las etiquetas en negritas-->
+			<!-- La etiqueta <strong></strong> va a volver el texto que esta 
+			entre las etiquetas en negritas-->
+
 			<!--La etiqueta <i> </i> volvera el texto en italica-->
-			<p> <strong>Sándia</strong>, me gusta que casi no tienes que <i>masticar</i> mucho y esta muy
+			<p> <strong>Sándia</strong>, me gusta que casi no tienes que 
+			<i>masticar</i> mucho y esta muy
 			jugosa. </p>
 
 			<!-- Una simple linea-->
 			<hr>
 
-			<!--Alerta nuevo elemento! <blockquotes> </blockquotes> es un elemento que se usa para citar cosas. -->
+			<!--Alerta nuevo elemento! <blockquotes> </blockquotes> es un 
+			elemento que se usa para citar cosas. -->
 			<blockquote>
 				¡La piña jugosa pasea orgullosa!
 				Repitiendo a todos:
@@ -37,4 +43,5 @@ Como puedes imaginarte el texto se puede editar de diferentes maneras tenemos **
 
 .. image:: img/etiquetas_especialesEx1.png
 
-Otra etiqueta que te ayuda a hacer tu texo mas *cool* es ``<hr>`` y esta etiqueta no necesitas cerrarla.
+Otra etiqueta que te ayuda a hacer tu texo mas *cool* es ``<hr>`` y esta 
+etiqueta no necesitas cerrarla.
